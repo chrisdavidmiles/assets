@@ -1,1 +1,0 @@
-This modified version of the helper plugin was made in response to https://wordpress.org/support/topic/disallow-enter-key-to-start-game/
